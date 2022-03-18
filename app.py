@@ -14,7 +14,7 @@ import time
 # This is needed to convert API 
 # responses into JSON objects
 import json
-
+'''
 # Godaddy developer key and secret
 api_key = "your api_key"
 secret_key = "your secret_key"
@@ -63,7 +63,7 @@ for x in range(0, len(all_domains)):
             print(x+1)
 
 ###############################################
-
+'''
 c30, c31, c32, c33, c34 = st.beta_columns(5)
 
 with c30:
