@@ -19,7 +19,7 @@ c30, c31, c32, c33, c34 = st.beta_columns(5)
 
 with c30:
   st.header('')
-  st.image('logo.webp', width = 725 )
+  st.image('logo.webp', width = 200 )
 
 with c34:
   st.header('')
